@@ -20,15 +20,6 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
-        },
-        {
-            "type": "Link",
-            "label": "Home",
-            "altText": "",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary"
         }
     ],
     "secondaryLinks": [],
