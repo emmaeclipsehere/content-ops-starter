@@ -12,10 +12,6 @@ sections:
           textAlign: center
     subtitle: Contact us
     text: >
-      **Track Your Order
-
-      **
-
       We understand how important it is to know the status of your order. To
       track your shipment, simply click the link below and enter your tracking
       code. You'll be able to see where your order is at every step of the way!
@@ -25,7 +21,8 @@ sections:
 
 
       If you have any questions or need further assistance, please feel free to
-      contact us at **help\@myspectra.store.** Thank you for shopping with us!
+      contact us at [**help@myspectra.store**](mailto:help@myspectra.store)**.**
+      Thank you for shopping with us!
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
