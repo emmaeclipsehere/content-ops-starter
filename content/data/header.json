@@ -24,7 +24,7 @@
         {
             "type": "Link",
             "label": "Home",
-            "altText": "Careers page",
+            "altText": "",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
