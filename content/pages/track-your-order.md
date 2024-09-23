@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Contact us
+    subtitle: ''
     text: >
       We understand how important it is to know the status of your order. To
       track your shipment, simply click the link below and enter your tracking
