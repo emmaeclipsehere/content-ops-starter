@@ -22,15 +22,6 @@
             "style": "secondary"
         },
         {
-            "label": "Contact Us",
-            "altText": "Careers page",
-            "url": "/contact-us",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Track Your Order",
             "altText": "Careers page",
@@ -38,6 +29,15 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
+        },
+        {
+            "label": "Contact Us",
+            "altText": "Careers page",
+            "url": "/contact-us",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [],
