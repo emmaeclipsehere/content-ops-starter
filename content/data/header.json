@@ -13,6 +13,15 @@
     },
     "primaryLinks": [
         {
+            "type": "Link",
+            "label": "Home",
+            "altText": "",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
+        },
+        {
             "label": "Contact Us",
             "altText": "Careers page",
             "url": "/contact-us",
@@ -26,15 +35,6 @@
             "label": "Track Your Order",
             "altText": "Careers page",
             "url": "/track-your-order",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary"
-        },
-        {
-            "type": "Link",
-            "label": "Home",
-            "altText": "",
-            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
