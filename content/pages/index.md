@@ -13,10 +13,6 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions: []
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     elementId: ''
     colors: bg-light-fg-dark
     styles:
