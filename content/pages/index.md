@@ -19,8 +19,8 @@ sections:
       *   Access "Track Your Order" to track your order.
 
 
-      *
-          Click on "Contact" to get in touch with us directly.
+      *   Click on "Contact" to get in touch with us directly.
+
 
       We are working as hard as possible to ensure all orders for the **WHITEFOX
       TRACKSUIT** are delivered within the 7 to 15 working days timeframe. We’ve
@@ -29,7 +29,7 @@ sections:
 
 
       If you have any questions, feel free to contact us at
-      **help\@myspectra.store.**
+      [**help@myspectra.store**](mailto:help@myspectra.store)**.**
 
 
       Thank you for your patience and understanding during this time!
