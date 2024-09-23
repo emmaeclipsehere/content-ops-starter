@@ -23,7 +23,7 @@
         },
         {
             "type": "Link",
-            "label": "Contact Us",
+            "label": "Home",
             "altText": "Careers page",
             "url": "/",
             "icon": "arrowRight",
