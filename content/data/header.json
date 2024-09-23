@@ -23,7 +23,7 @@
         },
         {
             "type": "Link",
-            "label": "Contact Us",
+            "label": "Track Your Order",
             "altText": "Careers page",
             "url": "/track-your-order",
             "icon": "arrowRight",
