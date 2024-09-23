@@ -11,7 +11,21 @@ sections:
         self:
           textAlign: center
     subtitle: Contact us
-    text: "Got a question? A rave review? Perhaps a game-changing suggestion? We’d love to hear from you!\n\nWe’re all ears and eager to listen. Fill out the sleek form below, or reach out to us directly at:\n\n\U0001F4E7\_**help\\@myspectra.store**\n"
+    text: >
+      **Track Your Order
+
+      **
+
+      We understand how important it is to know the status of your order. To
+      track your shipment, simply click the link below and enter your tracking
+      code. You'll be able to see where your order is at every step of the way!
+
+
+      [Track Your Order](https://57track.com/Track/Detail)
+
+
+      If you have any questions or need further assistance, please feel free to
+      contact us at **help\@myspectra.store.** Thank you for shopping with us!
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
