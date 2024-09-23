@@ -14,18 +14,18 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "Home",
-            "altText": "",
-            "url": "/",
+            "label": "Track Your Order",
+            "altText": "Careers page",
+            "url": "/track-your-order",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
         },
         {
             "type": "Link",
-            "label": "Track Your Order",
-            "altText": "Careers page",
-            "url": "/track-your-order",
+            "label": "Home",
+            "altText": "",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
