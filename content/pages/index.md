@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: High Demand for Orders
+      text: Important Notice
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
