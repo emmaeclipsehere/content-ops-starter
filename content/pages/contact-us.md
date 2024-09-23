@@ -3,7 +3,7 @@ title: Contact Us
 slug: contact-us
 sections:
   - title:
-      text: A team that works closely together
+      text: Contact & Support
       color: text-dark
       styles:
         self:
