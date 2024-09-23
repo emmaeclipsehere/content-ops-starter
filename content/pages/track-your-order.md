@@ -1,6 +1,6 @@
 ---
 title: Track Your Order
-slug: 'https://57track.com/Track/Detail'
+slug: /track-your-order
 sections: []
 seo:
   metaTitle: Pricing - Demo site
