@@ -1,0 +1,28 @@
+{
+    "model": "Link",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Link Pre-Set",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "LinkPreSet"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Contact Us",
+                "altText": "Careers page",
+                "url": "/contact-us",
+                "showIcon": null,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": null
+            },
+            "thumbnail": "images/link-link-pre-set-31b7.png"
+        }
+    ]
+}
