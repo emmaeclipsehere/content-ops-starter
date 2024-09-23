@@ -10,12 +10,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: "Got a question? A rave review? Perhaps a game-changing suggestion? We’d love to hear from you!\n\nWe’re all ears and eager to listen. Fill out the sleek form below, or reach out to us directly at:\n\n\U0001F4E7\_**help\\@myspectra.store**\n"
     actions:
       - label: See open positions
         url: /
