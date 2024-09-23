@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Track Your Order
 slug: pricing
 sections: []
 seo:
