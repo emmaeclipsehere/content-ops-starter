@@ -18,7 +18,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "Track Your Order",
                 "url": "/track-your-order",
                 "icon": "arrowRight",
                 "iconPosition": "right",
