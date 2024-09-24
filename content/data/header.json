@@ -24,7 +24,7 @@
         {
             "type": "Link",
             "label": "Track Your Order",
-            "altText": "Careers page",
+            "altText": "",
             "url": "/track-your-order",
             "icon": "arrowRight",
             "iconPosition": "right",
