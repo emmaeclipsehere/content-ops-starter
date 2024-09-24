@@ -24,8 +24,17 @@
         {
             "type": "Link",
             "label": "Track Your Order",
-            "altText": "Careers page",
+            "altText": "",
             "url": "/track-your-order",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "Contact Us",
+            "altText": "",
+            "url": "/contact-us",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
