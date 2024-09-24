@@ -47,7 +47,7 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-slug: track-your-order
+slug: /track-your-order
 seo:
   type: Seo
   metaTitle: Careers - Demo site
