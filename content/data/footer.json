@@ -28,7 +28,7 @@
             {
                 "type": "Link",
                 "label": "Contact Us",
-                "altText": "Careers page",
+                "altText": "",
                 "url": "/contact-us",
                 "icon": "arrowRight",
                 "iconPosition": "right",
