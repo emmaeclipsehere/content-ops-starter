@@ -19,7 +19,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/blog",
+                "url": "/track-your-order",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
